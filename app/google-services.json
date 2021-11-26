@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "109747046682",
+    "project_id": "midnightexpress-6a222",
+    "storage_bucket": "midnightexpress-6a222.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109747046682:android:e750a596a4c3e305a144a3",
+        "android_client_info": {
+          "package_name": "com.example.midnightexpress"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109747046682-6t0v743cmk17csi6ua0o1hl9d2863eiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH6AXpBAremevg8Cr0Xl6ewgzJFVH-o2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109747046682-6t0v743cmk17csi6ua0o1hl9d2863eiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
